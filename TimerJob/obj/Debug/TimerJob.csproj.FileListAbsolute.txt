@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2010\Projects\TimerJob\TimerJob\obj\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\TimerJob\TimerJob\bin\Debug\TimerJob.dll
+c:\users\administrator\documents\visual studio 2010\Projects\TimerJob\TimerJob\bin\Debug\TimerJob.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\TimerJob\TimerJob\obj\Debug\TimerJob.dll
+c:\users\administrator\documents\visual studio 2010\Projects\TimerJob\TimerJob\obj\Debug\TimerJob.pdb
